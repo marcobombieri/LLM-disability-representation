@@ -17,3 +17,20 @@ The directory _Script_plot/_ contains the code use to generate the paper plots.
 
 ## Acknowledgments
 This work has been conducted within the [Digital Arena for Inclusive Humanities](https://daih.eu) of the University of Verona, Italy.
+
+## Reference
+
+A preliminary report of the experiments and analysis provided with this repository is available in:
+
+```bibtex
+@inproceedings{Bombieri-clic-it-2025,
+  author       = {Marco Bombieri and
+                  Simone Paolo Ponzetto and
+                  Marco Rospocher},
+  title        = {Do LLMs Authentically Represent Affective Experiences of People with Disabilities on Social Media?},
+  booktitle    = {Eleventh Italian Conference on Computational Linguistics
+                  (CLiC-it 2025), Cagliari, Italy, September 24-26, 2025},
+  series       = {{CEUR} Workshop Proceedings},
+  publisher    = {CEUR-WS.org},
+  year         = {2025}
+}
