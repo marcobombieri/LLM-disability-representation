@@ -15,3 +15,5 @@ The directory _DatasetsCorpora/_ contains the files used for extracting signific
 The directory _Scripts/_ contains the scripts used to generate the posts with LLMs and annotate them with emotion, depression, and sentiment level.
 The directory _Script_plot/_ contains the code use to generate the paper plots.
 
+## Acknowledgments
+This work has been conducted within the [Digital Arena for Inclusive Humanities](https://daih.eu) of the University of Verona, Italy.
